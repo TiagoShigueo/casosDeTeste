@@ -16,3 +16,8 @@ Caso de Teste 6 - Abrir produto específico com mais informações do produto
     Acessar site Shopee na Categoria Casa e Decoração
     Pesquisar pelo Produto “Balança Digital”
 
+Caso de Teste 10 - Abrir produto específico e exibir detalhes do produto
+    [Tags]    detalhes
+    Acessar site Shopee na Categoria Casa e Decoração
+    Abrir Categoria de Artigos de Cozinha
+    Abrir produto específico

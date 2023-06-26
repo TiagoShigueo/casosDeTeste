@@ -36,5 +36,6 @@ Pesquisar pelo Produto “Balança Digital”
     Click Element    //button[@class='btn btn-solid-primary btn--s btn--inline shopee-searchbar__search-button']
     Wait Until Element Is Visible    //span[@class='shopee-search-result-header__text']
 
-
-
+Abrir produto específico
+    Click Element    //div[@class='_1yN94N WoKSjC _2KkMCe'][contains(.,'Jogo de Panelas Antiaderente 9 Peças Tampa de Vidro Teflon')]
+    Wait Until Element Is Visible    //div[@class='Iv7FJp'][contains(.,'Detalhes do Produto')]
